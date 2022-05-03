@@ -1,0 +1,6 @@
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/sweetlikekendy/commit-hooks-javascript
+[submodule "python"]
+	path = python
+	url = https://github.com/sweetlikekendy/commit-hooks-python.git
